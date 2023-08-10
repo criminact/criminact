@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ERC20 based Defi applications
 - 📫 How to reach me - hammeerraj@gmail.com
 
-![Raj's Discord](https://github-readme-stats.vercel.app/api?username=criminact&show_icons=true&theme=radical)
-
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=criminact&show_icons=true&theme=radical)
 
 
