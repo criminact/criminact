@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @criminact
+- 👋 Hi, I’m Raj
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning about LLMs
 - 💞️ I’m looking to collaborate on generative AI based applications
